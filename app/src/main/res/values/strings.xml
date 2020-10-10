@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Battery Management</string>
+
+    <string name="textLevel">100%</string>
+    <string name="level">Level</string>
+    <string name="textVoltage">Voltage</string>
+    <string name="voltage">4.462 V</string>
+    <string name="textHealth">Health</string>
+    <string name="health">Good</string>
+    <string name="textBatteryType">BatteryType</string>
+    <string name="batteryType">Li-ion</string>
+    <string name="textChargingSource">ChargingSource</string>
+    <string name="chargingSource">USB</string>
+    <string name="textTemperature">Temperature</string>
+    <string name="temperature">25.0 °C</string>
+    <string name="textChargingStatus">ChargingStatus</string>
+    <string name="chargingStatus">Charging</string>
+</resources>

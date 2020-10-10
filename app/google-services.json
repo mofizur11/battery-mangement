@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423975079749",
+    "firebase_url": "https://phone-mangement.firebaseio.com",
+    "project_id": "phone-mangement",
+    "storage_bucket": "phone-mangement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423975079749:android:e3f675dba0dd563583b82c",
+        "android_client_info": {
+          "package_name": "com.example.phonemangement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423975079749-su42c9qo5ank8t290bjvlm5hqqekvah7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVyACwFMYoPc49moYk107q9ErFyxa0k0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423975079749-su42c9qo5ank8t290bjvlm5hqqekvah7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
